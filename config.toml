@@ -1,4 +1,4 @@
-baseURL = 'https://mateimicu.github.io/tw/'
+baseURL = 'https://gordins.github.io/tw/'
 languageCode = 'en-us'
 title = 'TW'
 theme = 'hugo-theme-learn'
@@ -7,8 +7,8 @@ theme = 'hugo-theme-learn'
 home = [ "HTML", "RSS", "JSON"]
 
 [params]
-  editURL = "https://github.com/mateimicu/tw/tree/main/content/"
-  author = "Micu Matei-Marius"
+  editURL = "https://github.com/gordins/tw/tree/main/content/"
+  author = "Ştefan Gordîn"
   description = "TW"
   showVisitedLinks = true
   disableSearch = false
