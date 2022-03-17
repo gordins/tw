@@ -1,3 +1,6 @@
 [submodule "content/laboratoare"]
 	path = content/laboratoare
-	url = git@github.com:mateimicu/lab_tw.git
+				url = git@github.com:mateimicu/lab_tw.git
+[submodule "themes/hugo-theme-learn"]
+	path = themes/hugo-theme-learn
+	url = https://github.com/matcornic/hugo-theme-learn.git
