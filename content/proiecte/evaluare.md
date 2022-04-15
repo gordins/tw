@@ -19,8 +19,6 @@ Toata aplicatia trebuie sa aiba un design facut dar macar **3** pagini trebuie i
 * validitatea HTML+CSS
 * Responsive design
 * complexitatea paginilor
-* includerea de informatii semantice
-* validitatea metadatelor
 * claritatea interactiuni cu aplicatia (validarea datelor se face corect?)
 
 
