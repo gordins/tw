@@ -4,6 +4,26 @@ date: 2022-03-03T21:46:18+02:00
 draft: false
 ---
 
+# Componenta S
+
+Criteriile de evaluare detaliate se afla [aici](https://profs.info.uaic.ro/~busaco/teach/courses/web/web-projects.html#projects)
+
+
+### O lista orientativa cu criterii de evaluare
+
+* lucru in echipa
+* exportul de date
+* modulul de administrare
+* arhitectura aplicatie (MVC spre exemplu)
+* arhitectura aplicatiei de front-end
+* arhitectura datelor
+* functionalitati potrivite pentru proiect (ne asteptam ca cele din enunt sa fie toate, dar se puncteaza functionalitatile interesante)
+* testarea
+* documentatia
+* securitatea
+* folosirea paradigmelor de programare interesante
+* maturitatea solutiei
+
 
 # Componenta I
 
@@ -19,6 +39,8 @@ Toata aplicatia trebuie sa aiba un design facut dar macar **3** pagini trebuie i
 * validitatea HTML+CSS
 * Responsive design
 * complexitatea paginilor
+* includerea de informatii semantice
+* validitatea metadatelor
 * claritatea interactiuni cu aplicatia (validarea datelor se face corect?)
 
 
@@ -39,3 +61,4 @@ Pe partea de backend:
 * cum stocati datele (orice design / considerare speciala pe partea de storage)
 
 Daca sunteti o echipa nu uitati ca vom evaluare implicarea fiecarui membru.
+
